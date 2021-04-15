@@ -1,2 +1,1 @@
-win32oleを使った、Rubyプログラム
-
+win32ole繧剃ｽｿ縺｣縺欒uby繧ｽ繝ｼ繧ｹ
