@@ -1,0 +1,2 @@
+# win32ole_relation
+win32oleを使ったRubyソース
