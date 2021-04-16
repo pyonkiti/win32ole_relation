@@ -1,1 +1,1 @@
-win32oleを使ったRubyソース
+win32oleを使ってExcelを操作するRubyソース
